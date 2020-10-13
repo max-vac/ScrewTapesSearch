@@ -1,0 +1,19 @@
+{
+  "name": "screwshouse",
+  "version": "1.0.0",
+  "description": "'screwtape search engine'",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon express-server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "none"
+  ],
+  "author": "max vaclavik",
+  "license": "UNLICENSED"
+}

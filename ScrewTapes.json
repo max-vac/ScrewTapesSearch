@@ -1,0 +1,92 @@
+[
+{
+  "name": "Chapter 1 Don Deal",
+  "chapter": 1,
+  "artist": "DJ Screw",
+  "price": 1699,
+  "songs": [],
+  "image": "screwlogo.jpg",
+  "link": "https://screweduprecords.com/product/ch352-2000-freestyle/"
+},
+{
+  "name": "Southside Still Holding",
+  "chapter": 10,
+  "artist": "DJ Screw",
+  "price": 1699,
+  "songs": [],
+  "image": "screwlogo.jpg",
+  "link": "https://screweduprecords.com/product/ch352-2000-freestyle/"
+},
+{
+  "name": "Platinum Shit",
+  "chapter": 100,
+  "artist": "DJ Screw",
+  "price": 1699,
+  "songs": [],
+  "image": "screwlogo.jpg",
+  "link": "https://screweduprecords.com/product/ch352-2000-freestyle/"
+},
+{
+  "name": "Graduation '99",
+  "chapter":101,
+  "artist": "DJ Screw",
+  "price": 1699,
+  "songs": [],
+  "image": "screwlogo.jpg",
+  "link": "https://screweduprecords.com/product/ch352-2000-freestyle/"
+},
+{
+  "name": "3 Years Later",
+  "chapter":102,
+  "artist": "DJ Screw",
+  "price": 1699,
+  "songs": [],
+  "image": "screwlogo.jpg",
+  "link": "https://screweduprecords.com/product/ch352-2000-freestyle/"
+},
+{
+  "name": "Popped Up Sittin Low",
+  "chapter":104,
+  "artist": "DJ Screw",
+  "price": 1699,
+  "songs": [],
+  "image": "screwlogo.jpg",
+  "link": "https://screweduprecords.com/product/ch352-2000-freestyle/"
+},
+{
+  "name": "Sittin Sideways",
+  "chapter":104,
+  "artist": "DJ Screw",
+  "price": 1699,
+  "songs": [],
+  "image": "screwlogo.jpg",
+  "link": "https://screweduprecords.com/product/ch352-2000-freestyle/"
+},
+{
+  "name": "Everday All Day",
+  "chapter":105,
+  "artist": "DJ Screw",
+  "price": 1699,
+  "songs": [],
+  "image": "screwlogo.jpg",
+  "link": "https://screweduprecords.com/product/ch352-2000-freestyle/"
+},
+{
+  "name": "On A Pint",
+  "chapter":106,
+  "artist": "DJ Screw",
+  "price": 1699,
+  "songs": [],
+  "image": "./screwlogo.jpg",
+  "link": "https://screweduprecords.com/product/ch352-2000-freestyle/"
+},
+{
+  "name": "It's All Good",
+  "chapter":107,
+  "artist": "DJ Screw",
+  "price": 1699,
+  "songs": [],
+  "image": "screwlogo.jpg",
+  "link": "https://screweduprecords.com/product/ch352-2000-freestyle/"
+}
+]
